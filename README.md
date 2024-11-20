@@ -5,3 +5,4 @@
 - [Описание формул](docs/Formulas.md)
 - [Руководство пользователя](docs/Functions.md)
 - [Commits](docs/HistoryOfTheChange.md)
+- [Тесты](docs/Tests.md)
