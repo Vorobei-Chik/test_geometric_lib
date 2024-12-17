@@ -4,7 +4,7 @@ import unittest
 
 def area(r):
     '''Принимает десятичное число r, возвращает площадь круга радиуса r'''
-    return math.pi * r * r
+    return math.pi * r * r * 2
 
 
 def perimeter(r):
